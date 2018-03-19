@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="gg" value="[weak self] in&#10;guard let `self` = self else { return }" description="guard self" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="ds" value="{&#10;    didSet {&#10;    &#10;    }&#10;}" description="didSet" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+    </context>
+  </template>
+</templateSet>
