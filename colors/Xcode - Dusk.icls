@@ -4,7 +4,7 @@
     <property name="created">2018-03-11T20:19:17</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-18T10:59:32</property>
+    <property name="modified">2018-03-20T19:54:56</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -361,8 +361,8 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="6009b" />
-        <option name="ERROR_STRIPE_COLOR" value="20036" />
+        <option name="BACKGROUND" value="600b9" />
+        <option name="ERROR_STRIPE_COLOR" value="20068" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
