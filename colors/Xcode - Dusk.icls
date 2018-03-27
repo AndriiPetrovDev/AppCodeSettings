@@ -4,7 +4,7 @@
     <property name="created">2018-03-11T20:19:17</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-20T19:54:56</property>
+    <property name="modified">2018-03-27T19:47:10</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -52,7 +52,6 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="43332f" />
         <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
       </value>
     </option>
