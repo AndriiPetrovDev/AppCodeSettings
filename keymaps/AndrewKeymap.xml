@@ -55,6 +55,7 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -79,6 +80,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
   </action>
@@ -94,8 +96,14 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="ToggleBreakpointEnabled">
     <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="f10" />
