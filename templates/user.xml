@@ -10,7 +10,12 @@
       <option name="swift.lang.declaration.context" value="true" />
     </context>
   </template>
-  <template name="td" value="//TODO: " description="TODO" toReformat="false" toShortenFQNames="true">
+  <template name="ttt" value="//TODO: " description="TODO" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="fff" value="//FIXME: " description="FIXME" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="swift.lang.context" value="true" />
     </context>
