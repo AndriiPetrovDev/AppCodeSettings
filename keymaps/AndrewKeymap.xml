@@ -66,6 +66,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="HideSideWindows">
+    <keyboard-shortcut first-keystroke="ctrl meta escape" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
