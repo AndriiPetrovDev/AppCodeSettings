@@ -79,8 +79,12 @@
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
