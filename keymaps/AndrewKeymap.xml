@@ -80,6 +80,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl alt escape" />
+  </action>
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl meta escape" />
   </action>
