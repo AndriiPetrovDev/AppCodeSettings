@@ -86,6 +86,9 @@
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl meta escape" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift meta alt 9" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
