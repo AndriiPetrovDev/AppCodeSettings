@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="onlyMyCode" />
-    <option name="defaultScopeName" value="onlyMyCode" />
+    <option name="customScope" value="creations" />
+    <option name="defaultScopeName" value="creations" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="onlyMyCode" />
+    <option name="SEARCH_SCOPE" value="creations" />
   </component>
 </application>
