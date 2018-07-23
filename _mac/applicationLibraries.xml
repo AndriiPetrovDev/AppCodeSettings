@@ -382,7 +382,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="json (v1.8.3, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="json (v1.8.3.1, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -571,7 +571,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/test" />
       </excluded>
     </library>
-    <library name="psych (v2.1.0, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="psych (v2.1.0.1, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
