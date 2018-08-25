@@ -106,6 +106,7 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
+  <action id="PasteMultiple" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
