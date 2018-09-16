@@ -51,7 +51,7 @@
       <option name="swift.lang.statement.context" value="false" />
     </context>
   </template>
-  <template name="ws" value="[weak self]" description="weak self" toReformat="false" toShortenFQNames="true">
+  <template name="ws" value="[weak self] " description="weak self" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="swift.lang.context" value="true" />
       <option name="swift.lang.declaration.context" value="false" />
