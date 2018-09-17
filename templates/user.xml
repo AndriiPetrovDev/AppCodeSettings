@@ -11,13 +11,13 @@
       <option name="swift.lang.declaration.context" value="true" />
     </context>
   </template>
-  <template name="ttt" value="//TODO: $EXPR$" description="TODO" toReformat="false" toShortenFQNames="true">
+  <template name="ttt" value="// TODO: $EXPR$" description="TODO" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="swift.lang.context" value="true" />
     </context>
   </template>
-  <template name="fff" value="//FIXME: $EXPR$" description="FIXME" toReformat="false" toShortenFQNames="true">
+  <template name="fff" value="// FIXME: $EXPR$" description="FIXME" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="swift.lang.context" value="true" />
@@ -57,7 +57,13 @@
       <option name="swift.lang.declaration.context" value="false" />
     </context>
   </template>
-  <template name="ddd" value="//TBD: $EXPR$" description="TBD" toReformat="false" toShortenFQNames="true">
+  <template name="ddd" value="// TBD: $EXPR$" description="TBD" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="mmm" value="// MARK: - $EXPR$" description="MARK" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="swift.lang.context" value="true" />
