@@ -64,7 +64,7 @@
     </context>
   </template>
   <template name="mmm" value="&#10;// MARK: - $EXPR$&#10;" description="MARK" toReformat="false" toShortenFQNames="true">
-    <variable name="EXPR" expression="enum(&quot;Init&quot;, &quot;Public methods&quot;, &quot;Actions&quot;, &quot;Live cycle&quot;, &quot;Private methods&quot;, &quot;Properties&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="enum(&quot;Properties&quot;, &quot;IBOutlets&quot;,&quot;Init&quot;, &quot;Live cycle&quot;, &quot;Public methods&quot;, &quot;IBActions&quot;, &quot;Private methods&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="swift.lang.context" value="true" />
     </context>
