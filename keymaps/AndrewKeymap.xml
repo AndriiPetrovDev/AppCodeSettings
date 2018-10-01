@@ -6,6 +6,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt x" />
+  </action>
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
