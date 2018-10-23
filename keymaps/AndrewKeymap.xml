@@ -117,6 +117,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="PasteMultiple" />
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
