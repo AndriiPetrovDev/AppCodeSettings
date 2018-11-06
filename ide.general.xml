@@ -11,5 +11,6 @@
     <entry key="debugger.click.disable.breakpoints" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.initialDelay" value="504" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
