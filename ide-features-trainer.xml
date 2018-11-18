@@ -34,14 +34,14 @@
         <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
         <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
         <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
-        <entry key="swift.completions.basiccompletion" value="NOT_PASSED" />
+        <entry key="swift.completions.basiccompletion" value="PASSED" />
         <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.commentline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.deleteline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.duplicate" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.commentline" value="PASSED" />
+        <entry key="swift.editorbasics.deleteline" value="PASSED" />
+        <entry key="swift.editorbasics.duplicate" value="PASSED" />
         <entry key="swift.editorbasics.move" value="NOT_PASSED" />
         <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.selection" value="PASSED" />
         <entry key="swift.navigation.code" value="NOT_PASSED" />
         <entry key="swift.navigation.search" value="NOT_PASSED" />
         <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
@@ -61,8 +61,48 @@
         <entry key="swift.completions.basiccompletion">
           <value>
             <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="65880448" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.commentline">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="45981" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.deleteline">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15842" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="18967" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.move">
+          <value>
+            <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1542477651234" />
+              <option name="timestamp" value="1542543782771" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="29117" />
             </StatisticData>
           </value>
         </entry>
