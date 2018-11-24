@@ -66,6 +66,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="swift.editorbasics.collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543082531314" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="swift.editorbasics.commentline">
           <value>
             <StatisticData>
@@ -95,6 +103,14 @@
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1542543782771" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.multipleselections">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543082713083" />
             </StatisticData>
           </value>
         </entry>
