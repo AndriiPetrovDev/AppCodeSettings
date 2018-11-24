@@ -28,8 +28,8 @@
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
-        <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
-        <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.codeformatting" value="PASSED" />
+        <entry key="swift.codeassistance.quickpopups" value="PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
         <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
         <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
@@ -58,6 +58,22 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="swift.codeassistance.codeformatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="12240" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codeassistance.quickpopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="42112" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="swift.completions.basiccompletion">
           <value>
             <StatisticData>
@@ -119,6 +135,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="29117" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.navigation.toolwindows">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543083072721" />
             </StatisticData>
           </value>
         </entry>
