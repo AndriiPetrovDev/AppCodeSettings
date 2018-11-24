@@ -948,6 +948,74 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.106.0/credentials_manager" />
       </excluded>
     </library>
+    <library name="fastlane (v2.108.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/gym" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pem" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/cert" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/scan" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/sigh" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/match" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pilot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/supply" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/deliver" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/frameit" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/produce" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/precheck" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/snapshot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/spaceship" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/screengrab" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/credentials_manager" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/gym" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pem" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/cert" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/scan" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/sigh" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/match" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pilot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/supply" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/deliver" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/frameit" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/produce" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/precheck" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/snapshot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/spaceship" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/screengrab" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/credentials_manager" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/gym" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pem" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/cert" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/scan" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/sigh" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/match" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/pilot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/supply" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/deliver" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/frameit" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/produce" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/precheck" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/snapshot" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/spaceship" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/screengrab" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fastlane-2.108.0/credentials_manager" />
+      </excluded>
+    </library>
     <library name="fastlane-plugin-badge (v1.1.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1145,6 +1213,25 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.6/spec" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.6.7, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/.kokoro" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/.kokoro" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/googleauth-0.6.7/.kokoro" />
       </excluded>
     </library>
     <library name="highline (v1.7.10, ruby-2.3.7-p456) [gem]" type="rubylib">
