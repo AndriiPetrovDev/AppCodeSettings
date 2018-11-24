@@ -42,8 +42,8 @@
         <entry key="swift.editorbasics.move" value="NOT_PASSED" />
         <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
         <entry key="swift.editorbasics.selection" value="PASSED" />
-        <entry key="swift.navigation.code" value="NOT_PASSED" />
-        <entry key="swift.navigation.search" value="NOT_PASSED" />
+        <entry key="swift.navigation.code" value="PASSED" />
+        <entry key="swift.navigation.search" value="PASSED" />
         <entry key="swift.navigation.toolwindows" value="PASSED" />
         <entry key="swift.rdt.debug" value="NOT_PASSED" />
         <entry key="swift.rdt.run" value="NOT_PASSED" />
@@ -141,8 +141,16 @@
         <entry key="swift.navigation.code">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1543084275367" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="395600" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.navigation.search">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="181918" />
             </StatisticData>
           </value>
         </entry>
