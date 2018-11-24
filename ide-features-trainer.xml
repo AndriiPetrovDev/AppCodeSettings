@@ -30,10 +30,10 @@
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="PASSED" />
-        <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.createfromusage" value="PASSED" />
+        <entry key="swift.codegeneration.generate" value="PASSED" />
+        <entry key="swift.codegeneration.overrideimplement" value="PASSED" />
+        <entry key="swift.codegeneration.quickfixes" value="PASSED" />
         <entry key="swift.completions.basiccompletion" value="PASSED" />
         <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
         <entry key="swift.editorbasics.commentline" value="PASSED" />
@@ -45,13 +45,13 @@
         <entry key="swift.navigation.code" value="PASSED" />
         <entry key="swift.navigation.search" value="PASSED" />
         <entry key="swift.navigation.toolwindows" value="PASSED" />
-        <entry key="swift.rdt.debug" value="NOT_PASSED" />
-        <entry key="swift.rdt.run" value="NOT_PASSED" />
+        <entry key="swift.rdt.debug" value="PASSED" />
+        <entry key="swift.rdt.run" value="PASSED" />
         <entry key="swift.rdt.test" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
-        <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.closure" value="PASSED" />
+        <entry key="swift.refactorings.extract.method" value="PASSED" />
+        <entry key="swift.refactorings.extract.variable" value="PASSED" />
+        <entry key="swift.refactorings.rename" value="PASSED" />
       </map>
     </option>
   </component>
@@ -71,6 +71,38 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="42112" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.createfromusage">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="197905" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.generate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="99565" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.overrideimplement">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="58486" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.quickfixes">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="370926" />
             </StatisticData>
           </value>
         </entry>
@@ -159,6 +191,62 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="755910" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.debug">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="295648" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.run">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="61315" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.test">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543087423024" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.closure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="45709" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.method">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="83784" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.variable">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="83925" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="68731" />
             </StatisticData>
           </value>
         </entry>
