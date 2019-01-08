@@ -28,30 +28,228 @@
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
-        <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
-        <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
-        <entry key="swift.completions.basiccompletion" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.codeformatting" value="PASSED" />
+        <entry key="swift.codeassistance.quickpopups" value="PASSED" />
+        <entry key="swift.codegeneration.createfromusage" value="PASSED" />
+        <entry key="swift.codegeneration.generate" value="PASSED" />
+        <entry key="swift.codegeneration.overrideimplement" value="PASSED" />
+        <entry key="swift.codegeneration.quickfixes" value="PASSED" />
+        <entry key="swift.completions.basiccompletion" value="PASSED" />
         <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.commentline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.deleteline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.duplicate" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.commentline" value="PASSED" />
+        <entry key="swift.editorbasics.deleteline" value="PASSED" />
+        <entry key="swift.editorbasics.duplicate" value="PASSED" />
         <entry key="swift.editorbasics.move" value="NOT_PASSED" />
         <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
-        <entry key="swift.navigation.code" value="NOT_PASSED" />
-        <entry key="swift.navigation.search" value="NOT_PASSED" />
-        <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
-        <entry key="swift.rdt.debug" value="NOT_PASSED" />
-        <entry key="swift.rdt.run" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.selection" value="PASSED" />
+        <entry key="swift.navigation.code" value="PASSED" />
+        <entry key="swift.navigation.search" value="PASSED" />
+        <entry key="swift.navigation.toolwindows" value="PASSED" />
+        <entry key="swift.rdt.debug" value="PASSED" />
+        <entry key="swift.rdt.run" value="PASSED" />
         <entry key="swift.rdt.test" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
-        <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.closure" value="PASSED" />
+        <entry key="swift.refactorings.extract.method" value="PASSED" />
+        <entry key="swift.refactorings.extract.variable" value="PASSED" />
+        <entry key="swift.refactorings.rename" value="PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="swift.codeassistance.codeformatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="12240" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codeassistance.quickpopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="42112" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.createfromusage">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="197905" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.generate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="99565" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.overrideimplement">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="58486" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.codegeneration.quickfixes">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="370926" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.completions.basiccompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="65880448" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543082531314" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.commentline">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="45981" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.deleteline">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15842" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="18967" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.move">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1542543782771" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.multipleselections">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543082713083" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.editorbasics.selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="29117" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.navigation.code">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="395600" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.navigation.search">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="181918" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.navigation.toolwindows">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="755910" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.debug">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="295648" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.run">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="61315" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.rdt.test">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543087423024" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.closure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="45709" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.method">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="83784" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.extract.variable">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="83925" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="swift.refactorings.rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="68731" />
+            </StatisticData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

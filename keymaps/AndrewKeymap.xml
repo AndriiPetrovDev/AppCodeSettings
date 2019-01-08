@@ -156,7 +156,7 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="TogglePinnedMode">
-    <keyboard-shortcut first-keystroke="alt escape" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
