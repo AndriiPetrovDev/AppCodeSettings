@@ -106,6 +106,12 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
   </action>

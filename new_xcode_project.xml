@@ -1,11 +1,11 @@
 <application>
   <component name="XcodeNewProjectMetadata">
-    <lastUsedFolder path="/develop/Yalantis" />
+    <lastUsedFolder path="$USER_HOME$/Documents" />
     <string key="organizationName" value="___FULLUSERNAME___" />
     <string key="languageChoice" value="Swift" />
-    <string key="bundleIdentifierPrefix" value="An" />
-    <boolean key="hasUnitTests" value="true" />
+    <boolean key="hasUnitTests" value="false" />
     <boolean key="coreData" value="false" />
-    <boolean key="hasUITests" value="true" />
+    <string key="bundleIdentifierPrefix" value="An" />
+    <boolean key="hasUITests" value="false" />
   </component>
 </application>
