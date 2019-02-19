@@ -81,6 +81,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorToggleCase" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -149,6 +150,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -177,5 +179,8 @@
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
 </keymap>
