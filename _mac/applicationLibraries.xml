@@ -2666,6 +2666,25 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.0/tasks" />
       </excluded>
     </library>
+    <library name="tty-cursor (v0.6.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/tasks" />
+      </excluded>
+    </library>
     <library name="tty-screen (v0.6.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
