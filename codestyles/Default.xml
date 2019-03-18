@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="150" />
+  <option name="SOFT_MARGINS" value="120" />
   <SwiftCodeStyleSettings>
     <option name="SPACE_AROUND_RANGE_OPERATORS" value="true" />
     <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
