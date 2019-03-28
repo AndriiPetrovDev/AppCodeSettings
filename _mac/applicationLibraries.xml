@@ -962,6 +962,74 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.0/credentials_manager" />
       </excluded>
     </library>
+    <library name="fastlane (v2.118.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/credentials_manager" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/credentials_manager" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.118.1/credentials_manager" />
+      </excluded>
+    </library>
     <library name="fiddle (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
