@@ -196,6 +196,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.5.3/bin" />
       </excluded>
     </library>
+    <library name="cocoapods (v1.6.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.6.1/bin" />
+      </excluded>
+    </library>
     <library name="cocoapods-amimono (v0.0.10, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -226,6 +242,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-core-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods-core (v1.6.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-core-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-core-1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="cocoapods-deintegrate (v1.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -246,6 +273,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-downloader (v1.2.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -310,6 +348,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-trunk (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-trunk-1.3.1/spec" />
       </excluded>
     </library>
     <library name="cocoapods-try (v1.1.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -1053,6 +1107,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.0.1/bin" />
       </excluded>
     </library>
+    <library name="fourflusher (v2.2.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fourflusher-2.2.0/bin" />
+      </excluded>
+    </library>
     <library name="fuzzy_match (v2.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1613,6 +1683,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/molinillo-0.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="molinillo (v0.6.6, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/molinillo-0.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/molinillo-0.6.6/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.13.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2083,6 +2164,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-macho-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-macho (v1.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-macho-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-macho-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.5, ruby-2.3.7-p456) [gem]" type="rubylib">
