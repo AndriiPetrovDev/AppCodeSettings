@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateMessagesToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176507640" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
@@ -26,11 +34,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CommentByLineComment">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176936793" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Debug">
           <value>
             <ActionSummary>
-              <option name="last" value="1581175331741" />
-              <option name="times" value="4" />
+              <option name="last" value="1581176962751" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +61,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581164041168" />
-              <option name="times" value="2" />
+              <option name="last" value="1581176514272" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +101,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581164096902" />
-              <option name="times" value="1" />
+              <option name="last" value="1581176935825" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -114,6 +130,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581177061667" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoNextElementUnderCaretUsage">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176957100" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoPrevElementUnderCaretUsage">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176960092" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="InvalidateCaches">
           <value>
             <ActionSummary>
@@ -125,8 +165,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581175727123" />
-              <option name="times" value="8" />
+              <option name="last" value="1581176632246" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +213,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581169111715" />
-              <option name="times" value="3" />
+              <option name="last" value="1581175747573" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176502746" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -190,6 +238,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581175642357" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176496900" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
