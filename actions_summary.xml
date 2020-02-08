@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="QuickJavaDoc">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581126573365" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581126145757" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
