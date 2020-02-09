@@ -69,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252684762" />
-              <option name="times" value="20" />
+              <option name="last" value="1581261240714" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252687123" />
-              <option name="times" value="3" />
+              <option name="last" value="1581261205892" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -162,19 +162,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorNextWord">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581261225067" />
+              <option name="times" value="7" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252383193" />
-              <option name="times" value="16" />
+              <option name="last" value="1581261033884" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581164094617" />
-              <option name="times" value="1" />
+              <option name="last" value="1581261059467" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +197,16 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581164042752" />
-              <option name="times" value="3" />
+              <option name="last" value="1581261030452" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Generate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581261061897" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,16 +261,16 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252407990" />
-              <option name="times" value="3" />
+              <option name="last" value="1581261244411" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252410861" />
-              <option name="times" value="8" />
+              <option name="last" value="1581261245245" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -263,6 +279,22 @@
             <ActionSummary>
               <option name="last" value="1581252691954" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SmartTypeCompletion">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581261232520" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Swift.Generate.Init">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581261063313" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +333,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581164044422" />
-              <option name="times" value="1" />
+              <option name="last" value="1581261037079" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -343,6 +375,14 @@
             <ActionSummary>
               <option name="last" value="1581176496900" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$12">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581261036775" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
