@@ -13,8 +13,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581253306750" />
-              <option name="times" value="12" />
+              <option name="last" value="1581343527922" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -29,8 +29,8 @@
         <entry key="ActivateMessagesToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328351999" />
-              <option name="times" value="5" />
+              <option name="last" value="1581343531069" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328035993" />
-              <option name="times" value="10" />
+              <option name="last" value="1581343570679" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581327761611" />
-              <option name="times" value="7" />
+              <option name="last" value="1581343546799" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -359,6 +359,14 @@
             <ActionSummary>
               <option name="last" value="1581327885859" />
               <option name="times" value="34" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoNextError">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581343520590" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,16 +525,16 @@
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1581327769760" />
-              <option name="times" value="12" />
+              <option name="last" value="1581343552636" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1581327770291" />
-              <option name="times" value="3" />
+              <option name="last" value="1581343551529" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +637,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581342379491" />
-              <option name="times" value="11" />
+              <option name="last" value="1581343596213" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +685,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328379776" />
-              <option name="times" value="22" />
+              <option name="last" value="1581343572396" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
