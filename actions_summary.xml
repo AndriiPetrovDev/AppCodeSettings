@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344657253" />
-              <option name="times" value="29" />
+              <option name="last" value="1581414578691" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="CommentByLineComment">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413491161" />
-              <option name="times" value="8" />
+              <option name="last" value="1581414421123" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374244877" />
-              <option name="times" value="16" />
+              <option name="last" value="1581414553184" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581328454889" />
-              <option name="times" value="5" />
+              <option name="last" value="1581414485882" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -394,11 +394,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoImplementation">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581414561519" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoNextElementUnderCaretUsage">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374269722" />
-              <option name="times" value="65" />
+              <option name="last" value="1581414483491" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +461,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413531100" />
-              <option name="times" value="47" />
+              <option name="last" value="1581414393918" />
+              <option name="times" value="49" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +501,8 @@
         <entry key="SelectInProjectView">
           <value>
             <ActionSummary>
-              <option name="last" value="1581412882745" />
-              <option name="times" value="2" />
+              <option name="last" value="1581414442286" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
