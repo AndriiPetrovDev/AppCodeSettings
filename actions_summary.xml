@@ -74,6 +74,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581411330626" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Debug">
           <value>
             <ActionSummary>
@@ -93,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374390945" />
-              <option name="times" value="53" />
+              <option name="last" value="1581411281466" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +253,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374402896" />
-              <option name="times" value="36" />
+              <option name="last" value="1581411277501" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +725,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374245771" />
-              <option name="times" value="28" />
+              <option name="last" value="1581411146507" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
