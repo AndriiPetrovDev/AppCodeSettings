@@ -74,6 +74,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581411123156" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Debug">
           <value>
             <ActionSummary>
@@ -445,8 +453,16 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344567886" />
-              <option name="times" value="36" />
+              <option name="last" value="1581411075601" />
+              <option name="times" value="37" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="OpenXcodeProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581410546790" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +685,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581343596213" />
-              <option name="times" value="12" />
+              <option name="last" value="1581411015157" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
