@@ -6,9 +6,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="AppCode.OpenInXcodeAction">
-    <keyboard-shortcut first-keystroke="ctrl meta alt x" />
-  </action>
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -17,6 +14,8 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta alt 9" />
   </action>
@@ -26,6 +25,13 @@
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -82,10 +88,24 @@
   </action>
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -100,6 +120,12 @@
   </action>
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl meta escape" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift meta alt 9" />
@@ -121,6 +147,7 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
+  <action id="NextProjectWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -173,6 +200,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
