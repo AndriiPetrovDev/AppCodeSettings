@@ -53,8 +53,8 @@
         <entry key="ActivateTODOToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581412892015" />
-              <option name="times" value="1" />
+              <option name="last" value="1581425379973" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418361192" />
-              <option name="times" value="64" />
+              <option name="last" value="1581425386845" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorDeleteToLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581420099847" />
-              <option name="times" value="6" />
+              <option name="last" value="1581425385764" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418030640" />
-              <option name="times" value="19" />
+              <option name="last" value="1581425356860" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="HideActiveWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418081930" />
-              <option name="times" value="5" />
+              <option name="last" value="1581425421489" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581417061884" />
-              <option name="times" value="56" />
+              <option name="last" value="1581425371746" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,24 +605,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581417247807" />
-              <option name="times" value="19" />
+              <option name="last" value="1581425399596" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418057140" />
-              <option name="times" value="61" />
+              <option name="last" value="1581425399798" />
+              <option name="times" value="65" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectParent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581425417384" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418060173" />
-              <option name="times" value="33" />
+              <option name="last" value="1581425417116" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
