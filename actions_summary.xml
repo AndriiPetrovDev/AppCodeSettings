@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414578691" />
-              <option name="times" value="34" />
+              <option name="last" value="1581415035045" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414553184" />
-              <option name="times" value="18" />
+              <option name="last" value="1581415050745" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,16 +357,16 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374233824" />
-              <option name="times" value="9" />
+              <option name="last" value="1581415040338" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Forward">
           <value>
             <ActionSummary>
-              <option name="last" value="1581320297356" />
-              <option name="times" value="1" />
+              <option name="last" value="1581415036464" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581374245771" />
-              <option name="times" value="28" />
+              <option name="last" value="1581415053596" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
