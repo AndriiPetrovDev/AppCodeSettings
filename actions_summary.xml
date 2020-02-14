@@ -37,8 +37,8 @@
         <entry key="ActivateMessagesToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581343531069" />
-              <option name="times" value="7" />
+              <option name="last" value="1581683107092" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681360776" />
-              <option name="times" value="42" />
+              <option name="last" value="1581683096430" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -806,6 +806,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581264911446" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.cidr.execution.build.XcodeBuildErrorTreeViewPanel$2$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581683124605" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
