@@ -253,8 +253,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581877715115" />
-              <option name="times" value="145" />
+              <option name="last" value="1581881618907" />
+              <option name="times" value="146" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581877646695" />
-              <option name="times" value="158" />
+              <option name="last" value="1581881619711" />
+              <option name="times" value="162" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581864731583" />
-              <option name="times" value="3" />
+              <option name="last" value="1581881617836" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="SelectInProjectView">
           <value>
             <ActionSummary>
-              <option name="last" value="1581865296878" />
-              <option name="times" value="20" />
+              <option name="last" value="1581881613478" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
