@@ -461,8 +461,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078725701" />
-              <option name="times" value="53" />
+              <option name="last" value="1582113642408" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1117,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078717312" />
-              <option name="times" value="108" />
+              <option name="last" value="1582113627309" />
+              <option name="times" value="110" />
             </ActionSummary>
           </value>
         </entry>
