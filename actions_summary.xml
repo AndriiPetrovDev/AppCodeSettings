@@ -349,8 +349,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582123379334" />
-              <option name="times" value="610" />
+              <option name="last" value="1582124381618" />
+              <option name="times" value="612" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582123383342" />
-              <option name="times" value="42" />
+              <option name="last" value="1582124378621" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1037,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582123387208" />
-              <option name="times" value="21" />
+              <option name="last" value="1582124384512" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
