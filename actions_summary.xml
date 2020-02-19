@@ -37,8 +37,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582077434206" />
-              <option name="times" value="22" />
+              <option name="last" value="1582115551666" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114976152" />
-              <option name="times" value="323" />
+              <option name="last" value="1582115585824" />
+              <option name="times" value="324" />
             </ActionSummary>
           </value>
         </entry>
@@ -1085,8 +1085,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078036846" />
-              <option name="times" value="54" />
+              <option name="last" value="1582115565324" />
+              <option name="times" value="55" />
             </ActionSummary>
           </value>
         </entry>
