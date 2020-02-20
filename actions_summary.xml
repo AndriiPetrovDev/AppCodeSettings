@@ -981,8 +981,8 @@
         <entry key="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$MagicResolvedConflictsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195547841" />
-              <option name="times" value="24" />
+              <option name="last" value="1582197410034" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,8 +1061,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581865090787" />
-              <option name="times" value="19" />
+              <option name="last" value="1582197307457" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195557013" />
-              <option name="times" value="88" />
+              <option name="last" value="1582197436650" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
