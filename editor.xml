@@ -31,5 +31,8 @@
     <filter name="Mock">
       <pattern index="3" />
     </filter>
+    <filter name="Fix">
+      <pattern index="1" />
+    </filter>
   </component>
 </application>
