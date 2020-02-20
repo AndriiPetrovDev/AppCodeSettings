@@ -469,8 +469,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1582140080723" />
-              <option name="times" value="83" />
+              <option name="last" value="1582229133117" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582129344519" />
-              <option name="times" value="23" />
+              <option name="last" value="1582229064643" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -789,8 +789,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582144980377" />
-              <option name="times" value="399" />
+              <option name="last" value="1582229140439" />
+              <option name="times" value="400" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="SelectInProjectView">
           <value>
             <ActionSummary>
-              <option name="last" value="1582137816289" />
-              <option name="times" value="32" />
+              <option name="last" value="1582229093439" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,8 +1061,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197307457" />
-              <option name="times" value="20" />
+              <option name="last" value="1582228708741" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197436650" />
-              <option name="times" value="92" />
+              <option name="last" value="1582229074635" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
@@ -1165,8 +1165,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582194694513" />
-              <option name="times" value="150" />
+              <option name="last" value="1582229138976" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,8 +1205,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582139169019" />
-              <option name="times" value="68" />
+              <option name="last" value="1582229074307" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
