@@ -93,8 +93,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233691443" />
-              <option name="times" value="211" />
+              <option name="last" value="1582244877316" />
+              <option name="times" value="215" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +173,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238372996" />
-              <option name="times" value="585" />
+              <option name="last" value="1582244968878" />
+              <option name="times" value="589" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="Generate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049624015" />
-              <option name="times" value="24" />
+              <option name="last" value="1582243988316" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233664597" />
-              <option name="times" value="52" />
+              <option name="last" value="1582244784393" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238445254" />
-              <option name="times" value="435" />
+              <option name="last" value="1582244000954" />
+              <option name="times" value="437" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="SelectInProjectView">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238422164" />
-              <option name="times" value="44" />
+              <option name="last" value="1582244788171" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -877,16 +877,16 @@
         <entry key="Swift.Generate.Init">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049619925" />
-              <option name="times" value="20" />
+              <option name="last" value="1582243988990" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238082148" />
-              <option name="times" value="35" />
+              <option name="last" value="1582243980678" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
