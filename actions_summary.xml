@@ -45,8 +45,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582248170929" />
-              <option name="times" value="30" />
+              <option name="last" value="1582249750414" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="ActivateTODOToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582234321926" />
-              <option name="times" value="10" />
+              <option name="last" value="1582249522190" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582249043571" />
-              <option name="times" value="1242" />
+              <option name="last" value="1582249856604" />
+              <option name="times" value="1248" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="InsertLiveTemplate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582232125644" />
-              <option name="times" value="21" />
+              <option name="last" value="1582249845838" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1582249049385" />
-              <option name="times" value="239" />
+              <option name="last" value="1582249835261" />
+              <option name="times" value="241" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582249050370" />
-              <option name="times" value="440" />
+              <option name="last" value="1582249871543" />
+              <option name="times" value="442" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,24 +917,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582239752980" />
-              <option name="times" value="27" />
+              <option name="last" value="1582249650930" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582237373343" />
-              <option name="times" value="184" />
+              <option name="last" value="1582249802035" />
+              <option name="times" value="206" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectParent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582249653012" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233590247" />
-              <option name="times" value="62" />
+              <option name="last" value="1582249652697" />
+              <option name="times" value="63" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,16 +997,16 @@
         <entry key="com.intellij.diff.merge.MergeRequestProcessor$MyNextDifferenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195357142" />
-              <option name="times" value="16" />
+              <option name="last" value="1582250042669" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$MagicResolvedConflictsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197410034" />
-              <option name="times" value="26" />
+              <option name="last" value="1582250012033" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1101,8 @@
         <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582231527307" />
-              <option name="times" value="8" />
+              <option name="last" value="1582249545588" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,8 +1133,8 @@
         <entry key="com.intellij.ide.todo.SetTodoFilterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233547893" />
-              <option name="times" value="14" />
+              <option name="last" value="1582249586987" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -1141,8 +1149,8 @@
         <entry key="com.intellij.ide.todo.SetTodoFilterAction$TodoFilterApplier">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233548746" />
-              <option name="times" value="3" />
+              <option name="last" value="1582249587590" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -1173,8 +1181,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582248698375" />
-              <option name="times" value="98" />
+              <option name="last" value="1582250048903" />
+              <option name="times" value="105" />
             </ActionSummary>
           </value>
         </entry>
@@ -1213,8 +1221,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238221833" />
-              <option name="times" value="170" />
+              <option name="last" value="1582249749130" />
+              <option name="times" value="172" />
             </ActionSummary>
           </value>
         </entry>
@@ -1231,6 +1239,14 @@
             <ActionSummary>
               <option name="last" value="1581593592252" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582249583798" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
