@@ -35,4 +35,9 @@
     <variable name="NAME" expression="&quot;Name&quot;" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="mk" value="// REMOVE MOCK: " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
 </templateSet>
