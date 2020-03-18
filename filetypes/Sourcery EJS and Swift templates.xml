@@ -1,0 +1,19 @@
+<filetype binary="false" description="Sourcery EJS and Swift templates" name="Sourcery EJS and Swift templates">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="&lt;%#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="else;for;if;of;in;" ignore_case="false" />
+    <keywords2 keywords="accessLevel;actualDefinedInTypeName;actualReturnTypeName;aliasName;all;allMethods;allVariables;annotations;argumentLabel;arguments;associatedValues;attributes;based;call;callName;cases;classMethods;classes;computedVariables;containedType;containedTypes;contentSha;defaultValue;definedInType;definedInTypeName;elementType;elementTypeName;elements;enums;extensions;externalName;globalName;hasAssociatedValue;hasAssociatedValues;hasRawType;implementing;implements;inheritedTypes;inheriting;inherits;initializers;inlineRanges;inout;instanceMethods;instanceVariables;isClass;isComputed;isConvenienceInitialiser;isConvenienceInitializer;isDeinitializer;isExtension;isFailableInitializer;isFinal;isGeneric;isImplicitlyUnwrappedOptionalReturnType;isInitializer;isMutable;isMutating;isOptionalReturnType;isRequired;isStatic;jsContext;keyType;keyTypeName;kind;localName;methods;module;name;parameters;parent;parentName;parentTypes;path;protocols;rawType;rawTypeName;rawValue;readAccess;rethrows;returnType;returnTypeName;selectorName;shortName;sourceryVersion;staticMethods;staticVariables;stencilContext;storedVariables;structs;supertype;throws;typeAttributes;typeName;typealiases;types;typesByName;unwrappedReturnTypeName;valueType;valueTypeName;variables;writeAccess" />
+    <keywords3 keywords="#%&gt;;%&gt;;-%&gt;;&lt;%;&lt;%#;&lt;%=;&lt;%_;=%&gt;;_%&gt;" />
+    <keywords4 keywords="annotated;based;capitalize;class;computed;contains;count;default;enum;fileprivate;hasPrefix;hasSuffix;implements;inherits;initializer;instance;internal;join;lowerFirst;lowercase;open;private;protocol;public;publicGet;publicSet;replace;static;stored;struct;tuple;upperFirst;uppercase" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="swifttemplate" />
+    <mapping ext="ejs" />
+  </extensionMap>
+</filetype>
