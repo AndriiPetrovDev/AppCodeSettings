@@ -13,7 +13,7 @@
     <keywords4 keywords="annotated;based;capitalize;class;computed;contains;count;default;enum;fileprivate;hasPrefix;hasSuffix;implements;inherits;initializer;instance;internal;join;lowerFirst;lowercase;open;private;protocol;public;publicGet;publicSet;replace;static;stored;struct;tuple;upperFirst;uppercase" />
   </highlighting>
   <extensionMap>
-    <mapping ext="ejs" />
     <mapping ext="swifttemplate" />
+    <mapping ext="ejs" />
   </extensionMap>
 </filetype>
