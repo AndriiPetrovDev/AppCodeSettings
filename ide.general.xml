@@ -12,11 +12,4 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.initialDelay" value="504" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
-  </component>
 </application>
