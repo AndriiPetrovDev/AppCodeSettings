@@ -5,5 +5,35 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.swift" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cp</mask>
+    <mask>*.inl</mask>
+    <mask>*.ino</mask>
+    <mask>*.cuh</mask>
+    <mask>*.pch</mask>
+    <mask>*.c++</mask>
+    <mask>*.icc</mask>
+    <mask>*.ipp</mask>
+    <mask>*.h++</mask>
+    <mask>*.c</mask>
+    <mask>*.h</mask>
+    <mask>*.i</mask>
+    <mask>*.cxx</mask>
+    <mask>*.hh</mask>
+    <mask>*.hp</mask>
+    <mask>*.hxx</mask>
+    <mask>*.ii</mask>
+    <mask>*.hpp</mask>
+    <mask>*.cpp</mask>
+    <mask>*.tcc</mask>
+    <mask>*.mm</mask>
+    <mask>*.tpp</mask>
+    <mask>*.cu</mask>
+    <mask>*.cc</mask>
+    <mask>*.m</mask>
+    <mask>*.swift</mask>
   </component>
 </application>
