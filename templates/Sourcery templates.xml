@@ -1,5 +1,5 @@
 <templateSet group="Sourcery templates">
-  <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% endif %}" description="if...endif" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% endif %}" description="if...endif" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -18,7 +18,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="blk" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock %}" description="block...endblock" toReformat="false" toShortenFQNames="true">
+  <template name="blk" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock %}" description="block...endblock" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -37,7 +37,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="for" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $END$&#10;{% endfor %}" description="for...in...endfor" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $END$&#10;{% endfor %}" description="for...in...endfor" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SEQUENCE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -57,7 +57,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="fore" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $BODY$&#10;{% empty %}&#10;    $END$&#10;{% endfor %}" description="for...in...empty...endfor" toReformat="false" toShortenFQNames="true">
+  <template name="fore" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $BODY$&#10;{% empty %}&#10;    $END$&#10;{% endfor %}" description="for...in...empty...endfor" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SEQUENCE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
@@ -78,7 +78,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="ifnot" value="{% ifnot $CONDITION$ %}&#10;    $END$&#10;{% endif %}" description="ifnot...endif" toReformat="false" toShortenFQNames="true">
+  <template name="ifnot" value="{% ifnot $CONDITION$ %}&#10;    $END$&#10;{% endif %}" description="ifnot...endif" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -97,27 +97,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="ifne" value="{% ifnot $CONDITION$ %}&#10;    $BODY$&#10;{% else %}&#10;    $END$&#10;{% endif %}" description="ifnot...else...endif" toReformat="false" toShortenFQNames="true">
-    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="AppleScript" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HTML" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="Twig" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
-      <option name="c" value="false" />
-      <option name="cpp" value="false" />
-      <option name="objc" value="false" />
-      <option name="swift.lang.context" value="false" />
-    </context>
-  </template>
-  <template name="ife" value="{% if $CONDITION$ %}&#10;    $BODY$&#10;{% else %}&#10;    $END$&#10;{% endif %}" description="ifnot...else...endif" toReformat="false" toShortenFQNames="true">
+  <template name="ifne" value="{% ifnot $CONDITION$ %}&#10;    $BODY$&#10;{% else %}&#10;    $END$&#10;{% endif %}" description="ifnot...else...endif" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -137,7 +117,27 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="filter" value="{% filter $CONDITION$ %}&#10;    $END$&#10;{% endfilter %}" description="filter...endfilter" toReformat="false" toShortenFQNames="true">
+  <template name="ife" value="{% if $CONDITION$ %}&#10;    $BODY$&#10;{% else %}&#10;    $END$&#10;{% endif %}" description="ifnot...else...endif" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="AppleScript" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+      <option name="swift.lang.context" value="false" />
+    </context>
+  </template>
+  <template name="filter" value="{% filter $CONDITION$ %}&#10;    $END$&#10;{% endfilter %}" description="filter...endfilter" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -156,7 +156,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="inc" value="{% include '$TEMPLATE$'$END$ %}" description="include 'template'" toReformat="true" toShortenFQNames="false">
+  <template name="inc" value="{% include '$TEMPLATE$'$END$ %}" description="include 'template'" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -175,7 +175,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="ext" value="{% extends &quot;$TEMPLATE$&quot; %}" description="extends &quot;template&quot;" toReformat="true" toShortenFQNames="false">
+  <template name="ext" value="{% extends &quot;$TEMPLATE$&quot; %}" description="extends &quot;template&quot;" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -194,7 +194,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="{{" value="{{ $END$ }}" description="{{...}}" toReformat="false" toShortenFQNames="true">
+  <template name="{{" value="{{ $END$ }}" description="{{...}}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="AppleScript" value="false" />
       <option name="CSS" value="false" />
@@ -212,7 +212,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="{%" value="{% $END$ %}" description="{%...%}" toReformat="false" toShortenFQNames="true">
+  <template name="{%" value="{% $END$ %}" description="{%...%}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="AppleScript" value="false" />
       <option name="CSS" value="false" />
@@ -230,7 +230,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="{#" value="{# $END$ #}" description="{#...#}" toReformat="false" toShortenFQNames="true">
+  <template name="{#" value="{# $END$ #}" description="{#...#}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="AppleScript" value="false" />
       <option name="CSS" value="false" />
@@ -248,7 +248,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="mcr" value="{% macro $NAME$ $PARAM$ %}&#10;    $END$&#10;{% endmacro %}&#10;" description="macro...endmacro" toReformat="true" toShortenFQNames="false">
+  <template name="mcr" value="{% macro $NAME$ $PARAM$ %}&#10;    $END$&#10;{% endmacro %}&#10;" description="macro...endmacro" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -268,7 +268,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="tag" value="$LEFT$ $END$ $RIGHT$" description="one of {#...#}, {{...}} or {%...%}" toReformat="false" toShortenFQNames="true">
+  <template name="tag" value="$LEFT$ $END$ $RIGHT$" description="one of {#...#}, {{...}} or {%...%}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="LEFT" expression="enum(&quot;{%&quot;,&quot;{{&quot;,&quot;{#&quot;)" defaultValue="{%" alwaysStopAt="true" />
     <variable name="RIGHT" expression="enum(&quot;%}&quot;,&quot;}}&quot;,&quot;#}&quot;)" defaultValue="%}" alwaysStopAt="true" />
     <context>
@@ -288,7 +288,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="stag" value="$LEFT$ $END$ $RIGHT$" description="one of &lt;%, &lt;%_, &lt;%-, &lt;%=,&lt;#...-%&gt;, _%&gt;, %&gt;,#&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="stag" value="$LEFT$ $END$ $RIGHT$" description="one of &lt;%, &lt;%_, &lt;%-, &lt;%=,&lt;#...-%&gt;, _%&gt;, %&gt;,#&gt;" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="LEFT" expression="enum(&quot;&lt;%&quot;,&quot;&lt;%_&quot;,&quot;&lt;%-&quot;, &quot;&lt;%=&quot;,&quot;&lt;%#&quot;)" defaultValue="&lt;%" alwaysStopAt="true" />
     <variable name="RIGHT" expression="enum(&quot;%&gt;&quot;,&quot;_%&gt;&quot;,&quot;-%&gt;&quot;,&quot;#&gt;&quot;)" defaultValue="%&gt;" alwaysStopAt="true" />
     <context>
@@ -308,7 +308,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="sif" value="&lt;% if $CONDITION$ { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="if for Swift templates" toReformat="false" toShortenFQNames="true">
+  <template name="sif" value="&lt;% if $CONDITION$ { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="if for Swift templates" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AppleScript" value="false" />
@@ -327,7 +327,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="sife" value="&lt;% if $CONDITION$ { -%&gt;&#10;    $BODY$&#10;&lt;% } else { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="if..else for Swift templates" toReformat="false" toShortenFQNames="true">
+  <template name="sife" value="&lt;% if $CONDITION$ { -%&gt;&#10;    $BODY$&#10;&lt;% } else { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="if..else for Swift templates" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -347,7 +347,7 @@
       <option name="swift.lang.context" value="false" />
     </context>
   </template>
-  <template name="sfor" value="&lt;% for $VAR$ in $SEQUENCE$ { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="for loop for Swift templates" toReformat="false" toShortenFQNames="true">
+  <template name="sfor" value="&lt;% for $VAR$ in $SEQUENCE$ { -%&gt;&#10;    $END$&#10;&lt;% } -%&gt;" description="for loop for Swift templates" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SEQUENCE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
