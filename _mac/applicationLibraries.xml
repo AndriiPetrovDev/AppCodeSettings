@@ -22,6 +22,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-4.2.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.4.5, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -371,6 +382,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/claide-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods (v1.10.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.10.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-1.10.1/bin" />
+      </excluded>
+    </library>
     <library name="cocoapods (v1.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -485,6 +512,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-amimono-0.0.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-amimono-0.0.10/spec" />
       </excluded>
+    </library>
+    <library name="cocoapods-core (v1.10.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-core-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-core-1.10.1/lib" />
+      </SOURCES>
     </library>
     <library name="cocoapods-core (v1.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -605,6 +643,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-downloader (v1.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cocoapods-downloader-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -1102,6 +1151,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/escape-0.0.4/doc_include" />
+      </excluded>
+    </library>
+    <library name="ethon (v0.12.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/profile" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ethon-0.12.0/profile" />
       </excluded>
     </library>
     <library name="excon (v0.62.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2262,6 +2330,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.160.0/screengrab" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.160.0/fastlane_core" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fastlane-2.160.0/credentials_manager" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.14.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.14.2/samples" />
       </excluded>
     </library>
     <library name="fourflusher (v2.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -4390,6 +4477,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/tty-spinner-0.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="typhoeus (v1.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/typhoeus-1.4.0/spec" />
+      </excluded>
+    </library>
     <library name="tzinfo (v1.2.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4659,6 +4765,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.18.0/bin" />
+      </excluded>
+    </library>
+    <library name="xcodeproj (v1.19.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.19.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.19.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.19.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/xcodeproj-1.19.0/bin" />
       </excluded>
     </library>
     <library name="xcodeproj (v1.5.9, ruby-2.3.7-p456) [gem]" type="rubylib">
