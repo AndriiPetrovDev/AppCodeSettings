@@ -64,6 +64,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
