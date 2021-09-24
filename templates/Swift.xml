@@ -1,3 +1,43 @@
 <templateSet group="Swift">
-  <template name="someTTTT" value="{&#10;let aaaa = &quot;&quot;&#10;}" description="someTTTT" toReformat="false" toShortenFQNames="true" />
+  <template name="dpv" value="debugPrint(&quot;$EXPR_COPY$ = &quot;, $EXPR$)$END$" description="Prints a value to debug output" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="le" value="let $VAR_NAME$ = $EXPR$" description="Let declaration" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+      <option name="swift.lang.statement.context" value="true" />
+    </context>
+  </template>
+  <template name="va" value="var $VAR_NAME$ = $EXPR$" description="Var declaration" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+      <option name="swift.lang.statement.context" value="true" />
+    </context>
+  </template>
+  <template name="fun" value="$EXPR$ func $NAME$($PARAMETERS$) $RETURN_CLAUSE${&#10;    $END$&#10;}" description="Function statement" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="&quot;private &quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="NAME" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_CLAUSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+      <option name="swift.lang.statement.context" value="true" />
+    </context>
+  </template>
+  <template name="class" value="$EXPR$class $NAME$ {&#10;    $END$&#10;}" description="Class declaration" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="&quot;final &quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="&quot;Name&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="mk" value="// REMOVE MOCK: " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
 </templateSet>
