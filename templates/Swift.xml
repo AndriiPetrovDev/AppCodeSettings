@@ -1,0 +1,3 @@
+<templateSet group="Swift">
+  <template name="someTTTT" value="{&#10;let aaaa = &quot;&quot;&#10;}" description="someTTTT" toReformat="false" toShortenFQNames="true" />
+</templateSet>
