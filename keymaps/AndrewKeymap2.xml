@@ -148,18 +148,14 @@
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
+  <action id="NextTab" />
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="PasteMultiple" />
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
+  <action id="PreviousTab" />
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
