@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="false" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
