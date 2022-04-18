@@ -16,5 +16,6 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern="\bremove mock\b.*" />
   </component>
 </application>
