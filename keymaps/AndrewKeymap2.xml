@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateMessagesToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
