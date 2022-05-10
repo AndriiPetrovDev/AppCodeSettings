@@ -1,0 +1,10 @@
+<templateSet group="SwiftUI">
+  <template name="sss" value="$ELEMENT${&#10;$SELECTION$&#10;}" toReformat="true" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+      <option name="swift.lang.statement.context" value="false" />
+    </context>
+  </template>
+</templateSet>
