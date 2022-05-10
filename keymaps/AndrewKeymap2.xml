@@ -142,6 +142,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift meta alt 9" />
   </action>
+  <action id="Macro.SwiftFormat">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
@@ -183,6 +186,7 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ReformatCode" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -194,6 +198,7 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowReformatFileDialog" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
