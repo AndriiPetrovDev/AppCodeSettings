@@ -62,10 +62,10 @@
     <keyboard-shortcut first-keystroke="shift braceright" />
   </action>
   <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
   <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl down" />
