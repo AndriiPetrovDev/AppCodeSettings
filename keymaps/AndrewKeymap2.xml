@@ -55,6 +55,7 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="shift braceleft" />
   </action>
@@ -124,6 +125,7 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoClass" />
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -192,6 +194,12 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="Rainbow.ScopeHighlightingAction">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Rainbow.ScopeOutsideHighlightingRestrainAction">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="ReformatCode" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
@@ -238,4 +246,5 @@
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
