@@ -14,6 +14,10 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="SwiftEditorSettings">
+    <option name="SHOW_ERROR_HINTS" value="true" />
+    <option name="SHOW_TYPE_HINTS" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
