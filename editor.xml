@@ -3,6 +3,9 @@
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="200" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -13,10 +16,10 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="PRESELECT_RENAME" value="false" />
   </component>
-  <component name="SwiftEditorSettings">
-    <option name="SHOW_ERROR_HINTS" value="true" />
-    <option name="SHOW_TYPE_HINTS" value="true" />
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

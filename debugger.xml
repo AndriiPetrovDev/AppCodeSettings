@@ -90,7 +90,9 @@
     <data-views>
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
-    <general />
+    <general>
+      <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
