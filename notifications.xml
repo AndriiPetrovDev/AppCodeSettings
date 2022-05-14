@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Xcode" displayType="NONE" />
+  </component>
+</application>
