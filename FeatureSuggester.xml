@@ -1,23 +1,7 @@
 <application>
   <component name="FeatureSuggesterSettings">
-    <option name="suggesters">
-      <map>
-        <entry key="Comment with line comment_" value="false" />
-        <entry key="Completion with replace_" value="false" />
-        <entry key="Completion_" value="false" />
-        <entry key="Edit breakpoint_" value="false" />
-        <entry key="File structure_" value="false" />
-        <entry key="Introduce variable_" value="true" />
-        <entry key="Mute breakpoints_" value="false" />
-        <entry key="Paste from history_" value="false" />
-        <entry key="Run to cursor_" value="false" />
-        <entry key="Surround with_" value="true" />
-        <entry key="Unwrap_" value="false" />
-      </map>
-    </option>
     <option name="workingDays">
       <list>
-        <option value="1650630966110" />
         <option value="1650826910005" />
         <option value="1650893171351" />
         <option value="1650960214800" />
@@ -47,6 +31,7 @@
         <option value="1653002042695" />
         <option value="1653088866781" />
         <option value="1653174008496" />
+        <option value="1653263029851" />
       </list>
     </option>
   </component>
