@@ -1,5 +1,10 @@
 <application>
   <component name="FeatureSuggesterSettings">
+    <option name="suggestionLastShownTime">
+      <map>
+        <entry key="Paste from history" value="1653319989544" />
+      </map>
+    </option>
     <option name="workingDays">
       <list>
         <option value="1650826910005" />
