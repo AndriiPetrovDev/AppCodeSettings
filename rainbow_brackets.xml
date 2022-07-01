@@ -1,0 +1,12 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="applyColorsOfRoundForAllBrackets" value="true" />
+    <option name="doNOTRainbowifyBigFiles" value="false" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="numberOfColors" value="3" />
+    <option name="pressAnyKeyToRemoveTheHighlightingEffects" value="true" />
+    <option name="showRainbowIndentGuides" value="false" />
+    <option name="version" value="6.25" />
+  </component>
+</application>
