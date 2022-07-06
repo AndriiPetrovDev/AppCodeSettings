@@ -26,8 +26,12 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\bremove mock\b.*" />
+    <pattern pattern="\bnextdo\b" />
     <filter name="Mocks">
       <pattern index="2" />
+    </filter>
+    <filter name="Next">
+      <pattern index="3" />
     </filter>
   </component>
 </application>
