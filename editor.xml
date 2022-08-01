@@ -32,7 +32,6 @@
   </component>
   <component name="SwiftEditorSettings">
     <option name="SHOW_ERROR_HINTS" value="true" />
-    <option name="SHOW_TYPE_HINTS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
