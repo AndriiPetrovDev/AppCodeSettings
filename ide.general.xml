@@ -1,6 +1,21 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Memory" value="true" />
+        <entry key="Position" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
   </component>
 </application>

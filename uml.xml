@@ -1,0 +1,9 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="animationsEnabled" value="false" />
+    <option name="shortenNodeItemOnLength" value="200" />
+    <option name="myDoShowGridByDefault" value="false" />
+    <option name="myIsAnimationsEnabled" value="false" />
+    <option name="myShortenNodeItemOnLength" value="200" />
+  </component>
+</application>

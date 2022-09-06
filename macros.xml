@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="SwiftFormat">
+      <action id="ActivateTerminalToolWindow" />
+      <shortuct text="UP" />
+      <shortuct text="ENTER" />
+      <action id="HideActiveWindow" />
+    </macro>
+  </component>
+</application>

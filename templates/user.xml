@@ -1,0 +1,92 @@
+<templateSet group="user">
+  <template name="ds" value="{&#10;    didSet {&#10;    $EXPR$&#10;    }&#10;}" description="didSet" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+    </context>
+  </template>
+  <template name="ttt" value="// TODO: $EXPR$" description="TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="fff" value="// FIXME: $EXPR$" description="FIXME" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="gg" value="guard let self = self else { return }&#10;" description="guard self" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="us" value="[unowned self] " description="unowned self" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="ccc" value="copy.$EXPR_COPY$ = $EXPR$$END$" description="copy" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="swift.lang.statement.context" value="true" />
+    </context>
+  </template>
+  <template name="qqq" value="lhs.$EXPR_COPY$ == rhs.$EXPR$ &amp;&amp;&#10;qq$END$" description="euitable" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+      <option name="swift.lang.statement.context" value="false" />
+    </context>
+  </template>
+  <template name="ws" value="[weak self] " description="weak self" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="ddd" value="// TBD: $EXPR$" description="TBD" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="mmm" value="&#10;// MARK: - $EXPR$&#10;" description="MARK" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="enum(&quot;Properties&quot;, &quot;IBOutlets&quot;,&quot;Init&quot;, &quot;Live cycle&quot;, &quot;Public methods&quot;, &quot;IBActions&quot;, &quot;Private methods&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+  <template name="il" value="if let $EXPR_COPY$ = $EXPR$" description="If let" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="rrr" value="$CONTROL_LEVEL$" description="Access Control" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTROL_LEVEL" expression="enum(&quot;private &quot;,&quot;fileprivate &quot;,&quot;internal &quot;,&quot;public &quot;,&quot;open &quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+    </context>
+  </template>
+  <template name="str" value="&quot;\($SELECTION$)&quot;" description="expression to string" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+      <option name="swift.lang.declaration.context" value="false" />
+    </context>
+  </template>
+  <template name="nnn" value="// NEXTDO: $EXPR$" description="Next" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
+</templateSet>
