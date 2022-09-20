@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/hsncr/ZinZinZin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artwallet.co" />
+          <option name="userName" value="a.petrov@oneart.digital" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
