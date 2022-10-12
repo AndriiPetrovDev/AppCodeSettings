@@ -62,4 +62,9 @@
       <option name="swift.lang.statement.context" value="true" />
     </context>
   </template>
+  <template name="cgf" value="CGFloat" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
 </templateSet>
