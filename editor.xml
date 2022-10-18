@@ -54,7 +54,13 @@
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\bremove mock\b.*" />
     <pattern pattern="\bnextdo\b" />
-    <filter name="Mocks" />
-    <filter name="Next" />
+    <pattern pattern="\btodo_now\b.*" />
+    <filter name="Mocks">
+      <pattern index="2" />
+      <pattern index="4" />
+    </filter>
+    <filter name="Now">
+      <pattern index="4" />
+    </filter>
   </component>
 </application>

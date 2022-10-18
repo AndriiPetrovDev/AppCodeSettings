@@ -89,4 +89,10 @@
       <option name="swift.lang.context" value="true" />
     </context>
   </template>
+  <template name="ttn" value="// TODO_NOW: $EXPR$" description="TODO_NOW" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="swift.lang.context" value="true" />
+    </context>
+  </template>
 </templateSet>
