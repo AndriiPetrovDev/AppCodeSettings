@@ -241,6 +241,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
