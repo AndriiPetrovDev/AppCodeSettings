@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
     <notification groupId="Xcode" displayType="NONE" />
   </component>
 </application>
