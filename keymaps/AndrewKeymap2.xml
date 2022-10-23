@@ -22,6 +22,7 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="CheckinProject">
@@ -151,6 +152,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="LocalHistory.ShowHistory">
