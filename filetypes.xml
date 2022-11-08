@@ -4,8 +4,6 @@
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="xcscheme" type="XML" />
       <mapping ext="gpx" type="XML" />
-      <mapping pattern=".analysis_options" type="YAML" />
-      <mapping pattern="pubspec.lock" type="YAML" />
     </extensionMap>
   </component>
 </application>
