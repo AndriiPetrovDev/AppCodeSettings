@@ -3,7 +3,7 @@
     <property name="created">2022-11-07T14:58:00</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-11-07T23:44:37</property>
+    <property name="modified">2022-11-08T00:03:13</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -836,7 +836,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="747495" />
       </value>
     </option>
     <option name="FIRST SYMBOL IN LIST">
