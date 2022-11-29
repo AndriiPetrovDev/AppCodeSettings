@@ -36,7 +36,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
@@ -54,9 +54,7 @@
     <pattern icon="important" pattern="\bremove mock\b.*" />
     <pattern pattern="\bnextdo\b" />
     <pattern pattern="\btodo_now\b.*" />
-    <filter name="Mocks">
-      <pattern index="-1" />
-    </filter>
+    <filter name="Mocks" />
     <filter name="Now">
       <pattern index="4" />
     </filter>
