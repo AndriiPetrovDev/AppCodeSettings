@@ -55,7 +55,7 @@
     <pattern pattern="\bnextdo\b" />
     <pattern pattern="\btodo_now\b.*" />
     <filter name="Mocks">
-      <pattern index="-1" />
+      <pattern index="2" />
     </filter>
     <filter name="Now">
       <pattern index="4" />
