@@ -17,7 +17,7 @@
       <option name="swift.lang.context" value="true" />
     </context>
   </template>
-  <template name="gg" value="guard let self = self else { return }&#10;" description="guard self" toReformat="true" toShortenFQNames="true">
+  <template name="gg" value="guard let self else { return }&#10;" description="guard self" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="swift.lang.context" value="true" />
       <option name="swift.lang.declaration.context" value="false" />
