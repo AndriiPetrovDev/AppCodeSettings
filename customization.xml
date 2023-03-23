@@ -4,11 +4,27 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="TouchBar" is_group="true" forse_popup="false" action_type="-1" position="16">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="15">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="14">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="14">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesViewToolbar" is_group="true" forse_popup="false" action_type="-1" position="13">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -25,9 +41,17 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Markdown.Toolbar.Floating" is_group="true" forse_popup="false" action_type="-1" position="12">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="11">
+      <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="11">
@@ -40,6 +64,14 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.ToolWindow.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.LeftToolbar" is_group="true" forse_popup="false" action_type="-1" position="9">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -61,6 +93,10 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CodeWithMeToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -73,6 +109,10 @@
     <group seperator="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Forward" is_action="true" action_type="-1" position="6">
@@ -129,6 +169,16 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Build" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -144,6 +194,12 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Build" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="EditorForwardParagraph" icon="jar:file:/Users/andrewmbp-office/Library/Application%20Support/JetBrains/Toolbox/apps/AppCode/ch-0/223.6646.113/AppCode%202022.3%20EAP.app/Contents/lib/app.jar!/toolbarDecorator/export.svg" />
