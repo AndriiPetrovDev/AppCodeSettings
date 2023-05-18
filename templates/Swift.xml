@@ -2,7 +2,6 @@
   <template name="dpv" value="debugPrint(&quot;$EXPR_COPY$ = &quot;, $EXPR$)$END$" description="Prints a value to debug output" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="le" value="let $VAR_NAME$ = $EXPR$" description="Let declaration" toReformat="true" toShortenFQNames="true">
     <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -33,7 +32,6 @@
   <template name="class" value="$EXPR$class $NAME$ {&#10;    $END$&#10;}" description="Class declaration" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="&quot;final &quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="&quot;Name&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="mk" value="// REMOVE MOCK: " description="" toReformat="false" toShortenFQNames="true">
     <context>
@@ -42,12 +40,10 @@
   </template>
   <template name="p" value="log.debug($EXPR$)$END$" description="Prints a string to standard output" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="pv" value="log.debug(&quot;$EXPR_COPY$ = \($EXPR$)&quot;)$END$" description="Prints a value to standard output" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="pi" value="log.info($EXPR$)$END$" description="Prints a string to standard output" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
