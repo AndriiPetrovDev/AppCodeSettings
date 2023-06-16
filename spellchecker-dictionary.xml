@@ -12,15 +12,20 @@
       <w>fromi</w>
       <w>gwei</w>
       <w>hashrate</w>
+      <w>highload</w>
       <w>jrpc</w>
       <w>moty</w>
+      <w>multisig</w>
       <w>nekoton</w>
+      <w>nonexist</w>
       <w>oneart</w>
       <w>opensea</w>
       <w>refetch</w>
+      <w>setcode</w>
       <w>shevchuk</w>
       <w>todonow</w>
       <w>tykhonkov</w>
+      <w>uninit</w>
     </words>
   </component>
 </application>
