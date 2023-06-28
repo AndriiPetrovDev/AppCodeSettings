@@ -4,6 +4,7 @@
       <map>
         <entry key="cidr.test.framework.showIndexingAsTask" value="false" />
         <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
