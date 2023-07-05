@@ -31,6 +31,7 @@
     </option>
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
